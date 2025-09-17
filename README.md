@@ -180,35 +180,7 @@ O dashboard oferece:
 - **Indicadores visuais** de status
 - **Métricas comparativas** side-by-side
 
-## 🔍 Banco de Dados
 
-### Tabelas
-
-- **notifications**: Armazena notificações geradas
-- **performance_metrics**: Métricas de cada técnica
-
-### Dados de Exemplo
-
-As notificações são geradas automaticamente com mensagens variadas:
-
-- Alertas de sistema
-- Notificações de usuário
-- Status de processos
-- Métricas de performance
-
-## 🚀 Benefícios da Demonstração
-
-### Para Aprendizado
-
-- **Contexto real**: Dados vindos de banco simulam aplicação real
-- **Comparação justa**: Mesma fonte de dados para todas as técnicas
-- **Visualização clara**: Métricas side-by-side em tempo real
-
-### Para Portfólio
-
-- **Impacto visual**: Números mudando em tempo real
-- **Demonstração completa**: Entendimento de trade-offs
-- **Case de entrevista**: Excelente para explicar diferenças
 
 ## 🛠️ Tecnologias Utilizadas
 
