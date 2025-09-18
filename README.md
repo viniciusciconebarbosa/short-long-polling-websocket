@@ -2,7 +2,7 @@
 
 Esta aplicação Spring Boot demonstra as diferenças práticas entre **Short Polling**, **Long Polling** e **WebSocket** em cenários reais de notificações em tempo real.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Simular cenários reais, permitindo comparação visual de:
 
@@ -11,7 +11,7 @@ Simular cenários reais, permitindo comparação visual de:
 - **Uso de recursos de rede**
 - **Eficiência de comunicação**
 
-## 🏗️ Arquitetura
+## 🏗 Arquitetura
 
 ### Backend (Spring Boot)
 
@@ -27,7 +27,7 @@ Simular cenários reais, permitindo comparação visual de:
 - **Controles independentes** para cada técnica
 - **Log de notificações** em tempo real
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -53,7 +53,7 @@ mvn spring-boot:run
   - Username: `sa`
   - Password: `password`
 
-## 📊 Funcionalidades
+##  Funcionalidades
 
 ### 1. Short Polling
 
@@ -141,7 +141,7 @@ GET /api/metrics/summary
 GET /api/metrics/comparison
 ```
 
-## 📈 Demonstração
+## Demonstração
 
 ### Cenários de Teste
 
@@ -170,7 +170,7 @@ GET /api/metrics/comparison
 - **Average Latency**: Latência média em milissegundos
 - **Waiting Clients**: Clientes aguardando (Long Polling)
 
-## 🎨 Interface
+## Interface
 
 O dashboard oferece:
 
