@@ -11,7 +11,7 @@ Simular cenários reais, permitindo comparação visual de:
 - **Uso de recursos de rede**
 - **Eficiência de comunicação**
 
-## 🏗 Arquitetura
+##  Arquitetura
 
 ### Backend (Spring Boot)
 
