@@ -82,7 +82,7 @@ mvn spring-boot:run
   - Latência baixíssima (milissegundos)
   - Baixo overhead após conexão
 
-## 🔧 APIs Disponíveis
+## APIs Disponíveis
 
 ### Short Polling
 
@@ -182,7 +182,7 @@ O dashboard oferece:
 
 
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Spring Boot**
 - **Spring WebSocket**
@@ -190,7 +190,7 @@ O dashboard oferece:
 - **H2 Database**
 - **Bootstrap 5**
 
-## 🤝 Contribuição
+## Contribuição
 
 1. Fork o projeto
 2. Crie uma branch para sua feature
